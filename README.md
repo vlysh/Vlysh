@@ -1,0 +1,12 @@
+- 👋 Hi, I’m Ayush
+- 👀 I’m interested in Gaming
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to make an self automated A.I.
+- 💸 I'm a freelancer who does graphic designing,makes template and much more at a low wage.
+- 📫 How to reach me? For buisness enquires mail on : ayushbuisness12@gmail.com
+- 👂Listen to my podcast on: https://youtube.com/c/thevlingerpodcast
+- 🤝Wanna code with me? Dm me on my insta @itz_ayu.in or mail me.
+- 📜Just create your own history.
+- 🤖I Want to create Jarvis and edith once
+- 🕉️Jai Shree Ram
+--->
