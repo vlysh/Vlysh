@@ -1,12 +1,2 @@
 - 👋 Hi, Sathvik
-- 👀 Founder of Hustify
-- 🌱Founder of D.U.M.B
-- 💞️ I’m currently learning Python
-- 💸 I’m looking to make an self automated A.I.
-- 📫 How to reach me? For buisness enquires mail on : ayushbuisness12@gmail.com
-- 👂Listen to my podcast on: https://youtube.com/c/thevlingerpodcast
-- 🤝Wanna code with me? Dm me on my insta @itz_ayu.in or mail me.
-- 📜
-- 🤖I Want to create Jarvis and edith once
-- 🕉️Jai Shree Ram
---->
+
