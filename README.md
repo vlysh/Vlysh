@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ayush
+- 👋 Hi, Sathvik
 - 👀 Founder of Hustify
 - 🌱Founder of D.U.M.B
 - 💞️ I’m currently learning Python
